@@ -1,4 +1,3 @@
-[rojnamcha_v3_goal_coach_with_resources (1).html](https://github.com/user-attachments/files/32081915/rojnamcha_v3_goal_coach_with_resources.1.html)
 <!doctype html>
 <html lang="bn">
 <head>
